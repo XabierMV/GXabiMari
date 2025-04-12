@@ -6,6 +6,6 @@ public class Main {
 		System.out.println("Buenas tardes");
 		System.out.println("Adiós Mundo");
 		
-		System.out.println("Este es el paso 12");
+		System.out.println("Este es el paso 12 ");
 	}
 }
