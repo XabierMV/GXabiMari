@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("Adiós Mundo");
 		
 		System.out.println("Este es el paso 12");
-		System.out.println("Este es el paso 14 desde el segundo usuario");
+
+		System.out.println("Este es el paso 14");
+
 	}
 }
