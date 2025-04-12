@@ -9,6 +9,8 @@ public class Main {
 		System.out.println("Este es el paso 12");
 
 		System.out.println("Este es el paso 14");
+		
+		System.out.println("Este es el paso 24");
 
 	}
 }
